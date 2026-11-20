@@ -1,0 +1,14 @@
+# Python
+.venv/
+__pycache__/
+.pytest_cache/
+
+# Generated data and local outputs
+data/
+spark-warehouse/
+metastore_db/
+derby.log
+mlruns/
+mlflow.db
+
+.DS_Store
